@@ -6,8 +6,8 @@ Each .mat file has a four-way tensor electroencephalogram (EEG) data for each su
 Please see the reference paper for the detail.
 
 size(eeg) = [Number of targets, Number of channels, Number of sampling points, Number of trials]
-* Number of Targets 	      : 12
-* Number of Channels 	      : 8
+* Number of targets 	      : 12
+* Number of channels 	      : 8
 * Number of sampling points : 1114
 * Number of trials 		      : 15
 * Sampling rate 		        : 256 [Hz]
